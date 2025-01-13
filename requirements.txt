@@ -1,0 +1,5 @@
+python-telegram-bot
+icecream
+python-dotenv
+assemblyai
+pydub
